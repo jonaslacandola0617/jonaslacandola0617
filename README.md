@@ -18,7 +18,7 @@ When I'm not coding, you’ll find me:
 **DevOps & Tools:** Docker, Git, Postman, Redux  
 
 ## 🏆 Achievements  
-- **President Lister** & **With Honors** graduate 🏅  
+- **President Lister** & **With Honors** student 🏅  
 - **Certified in CCNA, React, and Node.js**   
 
 ## 🎯 Currently Working On  
