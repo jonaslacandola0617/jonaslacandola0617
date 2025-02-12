@@ -3,7 +3,7 @@
 Welcome to my GitHub—where code meets creativity (even though I don't consider myself that creative 😆).  
 
 ## 🚀 About Me  
-I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in **React, Next.js, Node.js, and Laravel**. I love crafting **responsive, user-friendly web applications** and diving deep into backend development.  
+I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in **React, Node.js, and Laravel**. I love crafting **responsive, user-friendly web applications** and diving deep into backend development.  
 
 When I'm not coding, you’ll find me:  
 - 📚 Learning about **Data Engineering**, **Data Analysis**, and **AI/ML**  
