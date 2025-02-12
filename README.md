@@ -12,7 +12,7 @@ When I'm not coding, you’ll find me:
 - 💡 Exploring **TypeScript** to level up my React skills  
 
 ## 🛠 Tech Stack  
-**Frontend:** React, Next.js, Tailwind CSS, ShadCN  
+**Frontend:** React, Tailwind CSS  
 **Backend:** Node.js, Express, PHP, Laravel  
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **DevOps & Tools:** Docker, Git, Postman, Redux  
