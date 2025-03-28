@@ -8,14 +8,13 @@ I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in *
 When I'm not coding, you’ll find me:  
 - 📚 Learning about **Data Engineering**, **Data Analysis**, and **AI/ML**  
 - 🎨 Trying to improve my **UI/UX skills** (design is hard, okay?)  
-- 🤖 Automating boring stuff with **Python**  
 - 💡 Exploring **TypeScript** to level up my React skills  
 
 ## 🛠 Tech Stack  
 **Frontend:** React, Tailwind CSS  
 **Backend:** Node.js, Express, PHP, Laravel  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**DevOps & Tools:** Docker, Git, Postman, Redux  
+**DevOps & Tools:** Docker, Git, Postman  
 
 ## 🏆 Achievements  
 - **President Lister** & **With Honors** student 🏅  
