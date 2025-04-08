@@ -30,6 +30,5 @@ When I'm not coding, you’ll find me:
 🐙 [GitHub](https://github.com/jonaslacandola)  
 📩 jonaslacandola07@gmail.com  
 
-### 🟩 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonaslacandola0617&theme=github-compact)
 
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=jonaslacandola0617&columns=15&color=green)
