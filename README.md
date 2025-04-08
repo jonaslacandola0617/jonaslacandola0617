@@ -30,6 +30,6 @@ When I'm not coding, you’ll find me:
 🐙 [GitHub](https://github.com/jonaslacandola)  
 📩 jonaslacandola07@gmail.com  
 
-**Let’s build something amazing together! 🚀**  
+### 🟩 GitHub Contribution Graph
 
-![snake gif](https://github.com/jonaslacandola0617/jonaslacandola0617/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=jonaslacandola0617&columns=15&color=green)
