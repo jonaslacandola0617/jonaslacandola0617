@@ -31,3 +31,5 @@ When I'm not coding, you’ll find me:
 📩 jonaslacandola07@gmail.com  
 
 **Let’s build something amazing together! 🚀**  
+
+![snake gif](https://github.com/jonaslacandola0617/jonaslacandola0617/blob/output/github-contribution-grid-snake.svg)
