@@ -33,3 +33,5 @@ When I'm not coding, you’ll find me:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonaslacandola0617&theme=github-compact)
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaslacandola0617&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=jonaslacandola0617&theme=default)
+
