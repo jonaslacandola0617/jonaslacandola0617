@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonaslacandola) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonaslacandola)
  
- <div align="center">
+ <div align="center" width="50%">
    <p>I'm an aspiring <b>Full-Stack Developer</b> from the Philippines, specializing in <b>React, Node.js, and Laravel.</b> I love crafting <b>responsive, user-friendly web applications</b> and diving deep into backend development. </p> 
  </div>
  
