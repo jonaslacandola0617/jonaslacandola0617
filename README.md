@@ -2,10 +2,10 @@
   <h1>Jonas Lacandola</h1>
   <p>I'm an aspiring <b>Full-Stack Developer</b> from the Philippines, specializing in <b>React, Node.js, and Laravel.</b> I love crafting <b>responsive, user-friendly web applications</b> and diving deep into backend development. </p> 
 
-When I'm not coding, you’ll find me:  
-- 📚 Learning about **Data Engineering**, **Data Analysis**, and **AI/ML**  
-- 🎨 Trying to improve my **UI/UX skills** (design is hard, okay?)  
-- 💡 Exploring **TypeScript** to level up my React skills  
+<h3>When I'm not coding, you’ll find me: </h3> 
+📚 Learning about **Data Engineering**, **Data Analysis**, and **AI/ML**  
+🎨 Trying to improve my **UI/UX skills** (design is hard, okay?)  
+💡 Exploring **TypeScript** to level up my React skills  
 </div>
 
 ## 🛠 Tech Stack  
