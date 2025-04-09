@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Jonas Lacandola</h1>h1>
-  <p>I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in **React, Node.js, and Laravel**. I love crafting **responsive, user-friendly web applications** and diving deep into backend development. </p> 
+  <h1>Jonas Lacandola</h1>
+  <p>I'm an aspiring <b>Full-Stack Developer</b> from the Philippines, specializing in <b>React, Node.js, and Laravel.</b> I love crafting <b>responsive, user-friendly web applications</b> and diving deep into backend development. </p> 
 </div>
 
 When I'm not coding, you’ll find me:  
