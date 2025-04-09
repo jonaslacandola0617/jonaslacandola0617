@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 font-size="2rem" font-weight="2rem" >Jonas Lacandola</h1>
+  <h1>Jonas Lacandola</h1>
   <p>I'm an aspiring <b>Full-Stack Developer</b> from the Philippines, specializing in <b>React, Node.js, and Laravel.</b> I love crafting <b>responsive, user-friendly web applications</b> and diving deep into backend development. </p> 
 </div>
 
