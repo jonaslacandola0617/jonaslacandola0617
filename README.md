@@ -1,9 +1,7 @@
-# 👋 Hey there! I'm Jonas Lacandola
-
-Welcome to my GitHub—where code meets creativity (even though I don't consider myself that creative 😆).  
-
-## 🚀 About Me  
-I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in **React, Node.js, and Laravel**. I love crafting **responsive, user-friendly web applications** and diving deep into backend development.  
+<div align="center">
+  <h1>Jonas Lacandola</h1>h1>
+  <p>I'm an aspiring **Full-Stack Developer** from the Philippines, specializing in **React, Node.js, and Laravel**. I love crafting **responsive, user-friendly web applications** and diving deep into backend development. </p> 
+</div>
 
 When I'm not coding, you’ll find me:  
 - 📚 Learning about **Data Engineering**, **Data Analysis**, and **AI/ML**  
