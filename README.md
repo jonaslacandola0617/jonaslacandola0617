@@ -7,4 +7,4 @@
    <p>💡 Exploring <b>TypeScript</b> to level up my React skills  </p>
  </div>
 
-[![Jonas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonaslacandola0617&theme=react-dark)]
+![Jonas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonaslacandola0617&theme=react-dark)
